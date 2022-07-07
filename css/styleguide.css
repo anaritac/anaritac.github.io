@@ -1,0 +1,54 @@
+:root { 
+  --black: #000000;
+  --cosmos: #ffdbdb;
+  --sangria: #9f0505;
+  --white: #ffffff;
+ 
+  --font-size-l: 80px;
+  --font-size-m: 35px;
+  --font-size-s: 31px;
+  --font-size-xl: 86px;
+  --font-size-xs: 25px;
+ 
+  --font-family-bodoniflf-bold: "BodoniFLF-Bold", Helvetica;
+  --font-family-greysparksans_block-regular: "GreysparkSans Block-Regular", Helvetica;
+}
+.bodoniflf-bold-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-bodoniflf-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bodoniflf-bold-white-31px {
+  color: var(--white);
+  font-family: var(--font-family-bodoniflf-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.greysparksansblock-regular-normal-white-80px {
+  color: var(--white);
+  font-family: var(--font-family-greysparksans_block-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bodoniflf-bold-black-35px {
+  color: var(--black);
+  font-family: var(--font-family-bodoniflf-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bodoniflf-bold-sangria-25px {
+  color: var(--sangria);
+  font-family: var(--font-family-bodoniflf-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}

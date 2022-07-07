@@ -1,0 +1,136 @@
+/* screen - web-1920-4 */
+
+.web-1920-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 982px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.web-1920-4 .grupo-49 {
+  align-items: flex-end;
+  background-color: var(--cosmos);
+  display: flex;
+  flex-direction: column;
+  margin-left: -5px;
+  min-height: 1080px;
+  padding: 21.6px 146.0px;
+  width: 1920px;
+}
+
+.web-1920-4 .overlap-group2 {
+  height: 429px;
+  position: relative;
+  width: 1497px;
+}
+
+.web-1920-4 .competncias {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 628px;
+}
+
+.web-1920-4 .overlap-group {
+  height: 356px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+  width: 1497px;
+}
+
+.web-1920-4 .idiomasportugus5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 6px;
+  width: 814px;
+}
+
+.web-1920-4 .adobeillustrator4 {
+  left: 220px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 6px;
+  width: 814px;
+}
+
+.web-1920-4 .officeword55pow {
+  left: 464px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 4px;
+  width: 814px;
+}
+
+.web-1920-4 .outrosprocreate45 {
+  left: 683px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 0;
+  width: 814px;
+}
+
+.web-1920-4 .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-right: 165.04px;
+  margin-top: 16px;
+  min-width: 1255px;
+}
+
+.web-1920-4 .grupo-40 {
+  background-image: url(../img/grupo-36-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 46px;
+  margin-top: 28.64px;
+  width: 55px;
+}
+
+.web-1920-4 .overlap-group1 {
+  height: 147px;
+  margin-left: 64px;
+  position: relative;
+  width: 1136px;
+}
+
+.web-1920-4 .contactos {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 628px;
+}
+
+.web-1920-4 .email {
+  left: 355px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 24px;
+  width: 781px;
+}
+
+.web-1920-4 .menu-inicial {
+  cursor: pointer;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 87px;
+  width: 205px;
+}

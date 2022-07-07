@@ -1,0 +1,304 @@
+/* screen - web-1920-3 */
+
+.web-1920-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 5683px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.web-1920-3 .overlap-group1 {
+  height: 5914px;
+  margin-left: -33px;
+  margin-top: -62px;
+  position: relative;
+  width: 1953px;
+}
+
+.web-1920-3 .retngulo-70 {
+  background-color: var(--cosmos);
+  height: 1080px;
+  left: 33px;
+  position: absolute;
+  top: 4834px;
+  width: 1920px;
+}
+
+.web-1920-3 .retngulo-13 {
+  background-color: var(--cosmos);
+  height: 1080px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.web-1920-3 .projetos-realizados {
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  top: 88px;
+  white-space: nowrap;
+  width: 628px;
+}
+
+.web-1920-3 .alfabeto-no-quotidia {
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 182px;
+  width: 814px;
+}
+
+.web-1920-3 .c {
+  height: 133px;
+  left: 1130px;
+  object-fit: cover;
+  position: absolute;
+  top: 272px;
+  width: 133px;
+}
+
+.web-1920-3 .retngulo-44 {
+  background-color: var(--cosmos);
+  height: 1080px;
+  left: 33px;
+  position: absolute;
+  top: 987px;
+  width: 1920px;
+}
+
+.web-1920-3 .t-shirt-relativa-ao {
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 924px;
+  width: 814px;
+}
+
+.web-1920-3 .candeeiromesaluz {
+  height: 312px;
+  left: 263px;
+  object-fit: cover;
+  position: absolute;
+  top: 1429px;
+  width: 555px;
+}
+
+.web-1920-3 .thirts {
+  height: 312px;
+  left: 843px;
+  object-fit: cover;
+  position: absolute;
+  top: 1429px;
+  width: 416px;
+}
+
+.web-1920-3 .projetos-realizados-1 {
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  top: 4835px;
+  white-space: nowrap;
+  width: 628px;
+}
+
+.web-1920-3 .retngulo-68 {
+  background-color: var(--cosmos);
+  height: 1080px;
+  left: 33px;
+  position: absolute;
+  top: 2048px;
+  width: 1920px;
+}
+
+.web-1920-3 .queijo-da-serra-da-e {
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 1904px;
+  width: 814px;
+}
+
+.web-1920-3 .memes {
+  height: 192px;
+  left: 263px;
+  object-fit: cover;
+  position: absolute;
+  top: 2449px;
+  width: 353px;
+}
+
+.web-1920-3 .almaaa2 {
+  height: 192px;
+  left: 660px;
+  object-fit: cover;
+  position: absolute;
+  top: 2449px;
+  width: 599px;
+}
+
+.web-1920-3 .retngulo-69 {
+  background-color: var(--cosmos);
+  height: 1080px;
+  left: 33px;
+  position: absolute;
+  top: 4043px;
+  width: 1920px;
+}
+
+.web-1920-3 .overlap-group {
+  height: 1254px;
+  left: 0;
+  position: absolute;
+  top: 2804px;
+  width: 1920px;
+}
+
+.web-1920-3 .retngulo-54 {
+  background-color: var(--cosmos);
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 174px;
+  width: 1920px;
+}
+
+.web-1920-3 .desenvolvimento-de-p {
+  left: 258px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  width: 751px;
+}
+
+.web-1920-3 .aaaaaa {
+  height: 253px;
+  left: 258px;
+  object-fit: cover;
+  position: absolute;
+  top: 782px;
+  width: 668px;
+}
+
+.web-1920-3 .cover-me-1 {
+  height: 418px;
+  left: 989px;
+  object-fit: cover;
+  position: absolute;
+  top: 617px;
+  width: 229px;
+}
+
+.web-1920-3 .cartaz-binaural-nod {
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 4787px;
+  width: 814px;
+}
+
+.web-1920-3 .cerdeira {
+  height: 148px;
+  left: 511px;
+  object-fit: cover;
+  position: absolute;
+  top: 5208px;
+  width: 324px;
+}
+
+.web-1920-3 .cerdeira2 {
+  height: 178px;
+  left: 511px;
+  object-fit: cover;
+  position: absolute;
+  top: 5357px;
+  width: 324px;
+}
+
+.web-1920-3 .binaural {
+  height: 325px;
+  left: 262px;
+  object-fit: cover;
+  position: absolute;
+  top: 5208px;
+  width: 229px;
+}
+
+.web-1920-3 .paragem-de-autocarro {
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 3914px;
+  width: 814px;
+}
+
+.web-1920-3 .flyer-movie-mock-up-cvvvv2 {
+  height: 174px;
+  left: 548px;
+  object-fit: cover;
+  position: absolute;
+  top: 4576px;
+  width: 368px;
+}
+
+.web-1920-3 .vista-frente {
+  height: 174px;
+  left: 262px;
+  object-fit: cover;
+  position: absolute;
+  top: 4576px;
+  width: 249px;
+}
+
+.web-1920-3 .grupo-53 {
+  align-items: flex-start;
+  display: flex;
+  height: 65px;
+  left: 263px;
+  min-width: 1022px;
+  position: absolute;
+  top: 5572px;
+}
+
+.web-1920-3 .grupo-43 {
+  background-image: url(../img/grupo-36-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 39px;
+  margin-top: 0;
+  width: 47px;
+}
+
+.web-1920-3 .menu-inicial {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -2.0px;
+  margin-left: 397px;
+  min-height: 60px;
+  width: 174px;
+}
+
+.web-1920-3 .grupo-44 {
+  background-image: url(../img/grupo-38-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 39px;
+  margin-left: 358px;
+  margin-top: 0;
+  width: 47px;
+}

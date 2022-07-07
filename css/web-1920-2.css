@@ -1,0 +1,131 @@
+/* screen - web-1920-2 */
+
+.web-1920-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 982px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.web-1920-2 .grupo-45 {
+  align-items: flex-end;
+  background-color: var(--cosmos);
+  display: flex;
+  flex-direction: column;
+  margin-left: -1px;
+  min-height: 981px;
+  padding: 32px 84.0px;
+  width: 1440px;
+}
+
+.web-1920-2 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 388px;
+  margin-right: 46.24px;
+  min-width: 1037px;
+}
+
+.web-1920-2 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 388px;
+  width: 814px;
+}
+
+.web-1920-2 .dados-pessoais {
+  letter-spacing: 0;
+  line-height: 80px;
+  margin-bottom: -5px;
+  min-height: 75px;
+  white-space: nowrap;
+}
+
+.web-1920-2 .o-meu-nome-ana-rit {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 1px;
+  min-height: 205px;
+  width: 814px;
+}
+
+.web-1920-2 .formao-acadmica {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 80px;
+  margin-bottom: -5px;
+  margin-top: 32px;
+  min-height: 75px;
+  white-space: nowrap;
+  width: 628px;
+}
+
+.web-1920-2 .imagem-1 {
+  height: 272px;
+  margin-left: 19px;
+  margin-top: 21px;
+  object-fit: cover;
+  width: 204px;
+}
+
+.web-1920-2 .overlap-group {
+  height: 181px;
+  margin-top: 2px;
+  position: relative;
+  width: 1083px;
+}
+
+.web-1920-2 .x1-ciclo-concludo {
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 0;
+  width: 913px;
+}
+
+.web-1920-2 .grupo-52 {
+  align-items: flex-start;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1022px;
+  position: absolute;
+  top: 117px;
+}
+
+.web-1920-2 .grupo-43 {
+  background-image: url(../img/grupo-36@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 39px;
+  margin-top: 0;
+  width: 47px;
+}
+
+.web-1920-2 .menu-inicial {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -2.0px;
+  margin-left: 397px;
+  min-height: 60px;
+  width: 174px;
+}
+
+.web-1920-2 .grupo-44 {
+  background-image: url(../img/grupo-38@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 39px;
+  margin-left: 358px;
+  margin-top: 0;
+  width: 47px;
+}

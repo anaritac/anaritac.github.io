@@ -1,0 +1,227 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 982px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.index .overlap-group {
+  align-items: flex-end;
+  background-color: var(--cosmos);
+  display: flex;
+  flex-direction: column;
+  margin-left: -332px;
+  min-height: 997px;
+  padding: 47.5px 167.4px;
+  width: 1772px;
+}
+
+.index .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 105px;
+  min-width: 953px;
+}
+
+.index .title {
+  color: var(--white);
+  font-family: var(--font-family-greysparksans_block-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 86px;
+  min-height: 79px;
+  min-width: 422px;
+  white-space: nowrap;
+}
+
+.index .overlap-group2 {
+  align-self: flex-end;
+  height: 84px;
+  margin-left: 186px;
+  position: relative;
+  width: 345px;
+}
+
+.index .grupo-3 {
+  background-image: url(../img/grupo-4-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.index .dados-pessoais {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.index .overlap-group1 {
+  height: 85px;
+  margin-top: 11px;
+  position: relative;
+  width: 345px;
+}
+
+.index .grupo-2 {
+  background-image: url(../img/grupo-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.index .formao-acadmica {
+  cursor: pointer;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.index .overlap-group-container {
+  height: 345px;
+  margin-top: 9px;
+  position: relative;
+  width: 592px;
+}
+
+.index .overlap-group3 {
+  height: 345px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 592px;
+}
+
+.index .grupo-4 {
+  background-image: url(../img/grupo-4-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 85px;
+  left: 247px;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.index .projetos-realizados {
+  cursor: pointer;
+  left: 273px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.index .grupo-7 {
+  display: flex;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(270deg);
+  width: 344px;
+}
+
+.index .grupo-4-1 {
+  flex: 1;
+  margin-bottom: -129.7px;
+  margin-left: 129.7px;
+  margin-right: 129.7px;
+  margin-top: -129.7px;
+  object-fit: cover;
+  transform: rotate(-270deg);
+  width: 84.9px;
+}
+
+.index .menu {
+  left: 134px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 30px;
+  transform: rotate(270deg);
+  white-space: nowrap;
+}
+
+.index .overlap-group5 {
+  height: 85px;
+  left: 247px;
+  position: absolute;
+  top: 95px;
+  width: 345px;
+}
+
+.index .grupo-5 {
+  background-image: url(../img/grupo-4-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.index .competncias {
+  cursor: pointer;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.index .overlap-group4 {
+  height: 86px;
+  left: 247px;
+  position: absolute;
+  top: 190px;
+  width: 345px;
+}
+
+.index .grupo-6 {
+  background-image: url(../img/grupo-4-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.index .contactos {
+  cursor: pointer;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
